@@ -1,3 +1,7 @@
-# Twitter
+# 트위터 클론 코딩
 
-Twitter miniclone with React and Firebase
+**노마드 코더 <트위터 클론 코딩>** 강의 실습 저장소입니다.
+
+### 학습 기록
+공부 과정은 아래 노션 페이지에서 확인할 수 있습니다.
+👉 [노션 학습 페이지 바로가기](https://www.notion.so/270ded1a3fdd80e69180f96501308e95?source=copy_link)
